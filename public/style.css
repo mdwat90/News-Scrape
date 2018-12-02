@@ -1,0 +1,35 @@
+.articleResult {
+    border: 1px solid #dddddd; 
+    border-radius: 5px; 
+    margin-top: 50px;
+    text-align: center;
+}
+
+.jumbotron {
+    background-image: url("http://redferns.ca/wp-content/uploads/2018/07/news.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    border-radius: 5px;
+    opacity: 0.5;
+}
+
+.writeNote {
+    background-color: #3f65a3;
+    color: white;
+}
+
+#projectTitle {
+    font-size: 75px;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}
+
+.articleTitle {
+    background-color: #ce2c00;
+    color: white;
+    height: 75px;
+    padding: 20px;
+}
